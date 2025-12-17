@@ -11,6 +11,6 @@ print(mensagem)
 poema = '''Rosas são vermelhas,
 violetas são azuis,
 Python é incrível,
-e você também.'''
+e você também..'''
 
 print(poema)
